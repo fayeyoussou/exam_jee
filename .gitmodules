@@ -1,0 +1,9 @@
+[submodule "ear_exam"]
+	path = ear_exam
+	url = https://github.com/fayeyoussou/ear_exam
+[submodule "emploie"]
+	path = emploie
+	url = https://github.com/fayeyoussou/emploie
+[submodule "ejb_exam"]
+	path = ejb_exam
+	url = https://github.com/fayeyoussou/ejb_exam
